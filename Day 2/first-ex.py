@@ -1,8 +1,8 @@
-n1 = float(input("Enter the 1st number: "))
-n2 = float(input("Enter the 2nd number: "))
+num1 = float(input("Enter the 1st number: "))
+num2 = float(input("Enter the 2nd number: "))
 
-sum = n1 + n2
-multiplication = n1 * n2
-division = n1 / n2
+sum_result = num1 + num2
+product = num1 * num2
+quotient = num1 / num2
 
-print(f"Sum: {sum:.2f}\nMultiplication: {multiplication:.2f}\nDivision: {division:.2f}")
+print(f"Sum: {sum_result:.2f}\nProduct: {product:.2f}\nQuotient: {quotient:.2f}")

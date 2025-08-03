@@ -1,10 +1,10 @@
-n1 = 1
-while n1 <= 10:
-    print(f"Counting: {n1}")
-    n1 += 1
+counter = 1
+while counter <= 10:
+    print(f"Counting: {counter}")
+    counter += 1
 
-for n1 in range(1, 11):
-    print(f"Counting: {n1}")
+for counter in range(1, 11):
+    print(f"Counting: {counter}")
 
 total = 0
 for i in range(1, 6):
