@@ -1,6 +1,6 @@
 import pandas as pd
 
-purchases = pd.read_csv("simulation.csv")
+purchases = pd.read_csv("3 - simulation.csv")
 
 print("Full table:")
 print(purchases)
